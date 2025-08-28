@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Saurabhvermaji/react-clone/static/css/main.c1a023ca.css",
-    "main.js": "/Saurabhvermaji/react-clone/static/js/main.aaf91c95.js",
-    "static/js/453.0f1874b4.chunk.js": "/Saurabhvermaji/react-clone/static/js/453.0f1874b4.chunk.js",
-    "static/media/ci3.png": "/Saurabhvermaji/react-clone/static/media/ci3.6d0d9990ffb90b1d2cc3.png",
-    "static/media/browser.png": "/Saurabhvermaji/react-clone/static/media/browser.033b2ddc67807198a09e.png",
-    "static/media/Os.png": "/Saurabhvermaji/react-clone/static/media/Os.b484c81468ef411706f2.png",
-    "static/media/ci2.png": "/Saurabhvermaji/react-clone/static/media/ci2.94c1a298d1c5354c3ea8.png",
-    "static/media/ci1.png": "/Saurabhvermaji/react-clone/static/media/ci1.f5b1f4adb25070df81f9.png",
-    "static/media/logo_dark.svg": "/Saurabhvermaji/react-clone/static/media/logo_dark.b06630590764f529db9c7353b130a17e.svg",
-    "index.html": "/Saurabhvermaji/react-clone/index.html",
-    "main.c1a023ca.css.map": "/Saurabhvermaji/react-clone/static/css/main.c1a023ca.css.map",
-    "main.aaf91c95.js.map": "/Saurabhvermaji/react-clone/static/js/main.aaf91c95.js.map",
-    "453.0f1874b4.chunk.js.map": "/Saurabhvermaji/react-clone/static/js/453.0f1874b4.chunk.js.map"
+    "main.css": "/react-clone/static/css/main.c1a023ca.css",
+    "main.js": "/react-clone/static/js/main.f1e37b30.js",
+    "static/js/453.0f1874b4.chunk.js": "/react-clone/static/js/453.0f1874b4.chunk.js",
+    "static/media/ci3.png": "/react-clone/static/media/ci3.6d0d9990ffb90b1d2cc3.png",
+    "static/media/browser.png": "/react-clone/static/media/browser.033b2ddc67807198a09e.png",
+    "static/media/Os.png": "/react-clone/static/media/Os.b484c81468ef411706f2.png",
+    "static/media/ci2.png": "/react-clone/static/media/ci2.94c1a298d1c5354c3ea8.png",
+    "static/media/ci1.png": "/react-clone/static/media/ci1.f5b1f4adb25070df81f9.png",
+    "static/media/logo_dark.svg": "/react-clone/static/media/logo_dark.b06630590764f529db9c7353b130a17e.svg",
+    "index.html": "/react-clone/index.html",
+    "main.c1a023ca.css.map": "/react-clone/static/css/main.c1a023ca.css.map",
+    "main.f1e37b30.js.map": "/react-clone/static/js/main.f1e37b30.js.map",
+    "453.0f1874b4.chunk.js.map": "/react-clone/static/js/453.0f1874b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a023ca.css",
-    "static/js/main.aaf91c95.js"
+    "static/js/main.f1e37b30.js"
   ]
 }
