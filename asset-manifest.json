@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Saurabhvermaji/react-clone/static/css/main.c1a023ca.css",
-    "main.js": "/Saurabhvermaji/react-clone/static/js/main.9c07e2e9.js",
+    "main.js": "/Saurabhvermaji/react-clone/static/js/main.aaf91c95.js",
     "static/js/453.0f1874b4.chunk.js": "/Saurabhvermaji/react-clone/static/js/453.0f1874b4.chunk.js",
     "static/media/ci3.png": "/Saurabhvermaji/react-clone/static/media/ci3.6d0d9990ffb90b1d2cc3.png",
     "static/media/browser.png": "/Saurabhvermaji/react-clone/static/media/browser.033b2ddc67807198a09e.png",
@@ -11,11 +11,11 @@
     "static/media/logo_dark.svg": "/Saurabhvermaji/react-clone/static/media/logo_dark.b06630590764f529db9c7353b130a17e.svg",
     "index.html": "/Saurabhvermaji/react-clone/index.html",
     "main.c1a023ca.css.map": "/Saurabhvermaji/react-clone/static/css/main.c1a023ca.css.map",
-    "main.9c07e2e9.js.map": "/Saurabhvermaji/react-clone/static/js/main.9c07e2e9.js.map",
+    "main.aaf91c95.js.map": "/Saurabhvermaji/react-clone/static/js/main.aaf91c95.js.map",
     "453.0f1874b4.chunk.js.map": "/Saurabhvermaji/react-clone/static/js/453.0f1874b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a023ca.css",
-    "static/js/main.9c07e2e9.js"
+    "static/js/main.aaf91c95.js"
   ]
 }
