@@ -1,12 +1,12 @@
 import React from "react";
-import { HashRouter  } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import AppRoutes from "./routes/routes";
 
 const App = () => {
   return (
-    <HashRouter >
+    <Router >
       <AppRoutes />
-    </HashRouter >
+    </Router >
   );
 };
 
