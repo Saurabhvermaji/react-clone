@@ -1,0 +1,13 @@
+.blogbox {
+    padding: 5px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+@media (min-width: 1024px) {
+    .blogbox {
+        padding-top: 20px;
+        margin: 0 auto;
+        width: 80%;
+    }
+}

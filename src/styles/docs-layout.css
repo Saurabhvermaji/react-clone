@@ -1,0 +1,26 @@
+.docs-layout {
+  display: flex;
+  height: calc(100vh - 60px);
+  margin-top: 60px;
+}
+
+.docs-content-area {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow-y: auto;
+}
+
+.docs-main {
+  margin: 0 20px 0 20px;
+}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 1023px) {}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .docs-content-area {
+    width: 100%;
+  }
+}
