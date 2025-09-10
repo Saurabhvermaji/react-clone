@@ -25,7 +25,7 @@ code {
 }
 
 [data-theme="dark"] {
-  --bg-color: red;
+  --bg-color: #151d2bb1;
   --text-color: #ffffff;
   --navbar-bg: #151d2b;
   --input-bg: #353b45af;
