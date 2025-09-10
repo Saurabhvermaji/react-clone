@@ -11,6 +11,7 @@
     padding: 20px;
     background-color: var(--navbar-bg);
     color: var(--text-color);
+    z-index: 100;
 }
 
 .left_nav,

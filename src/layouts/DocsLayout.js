@@ -12,7 +12,6 @@ const DocsLayout = ({ children }) => {
     <>
       <Navbar menuOpen={menuOpen} toggleMenu={toggleMenu} />
       <div className="docs-layout">
-        {/* Sidebar: large screen ke liye hamesha visible + small screen toggle */}
         <Sidebar menuOpen={menuOpen} setMenuOpen={setMenuOpen} className="sidebar" />
         <div className="docs-content-area">
           <main className="docs-main">{children}</main>
