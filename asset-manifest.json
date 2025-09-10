@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-clone/static/css/main.c1a023ca.css",
-    "main.js": "/react-clone/static/js/main.da74ea97.js",
-    "static/js/453.0f1874b4.chunk.js": "/react-clone/static/js/453.0f1874b4.chunk.js",
+    "main.css": "/react-clone/static/css/main.d7a5895c.css",
+    "main.js": "/react-clone/static/js/main.a008f4fb.js",
+    "static/js/453.5f0ed8ef.chunk.js": "/react-clone/static/js/453.5f0ed8ef.chunk.js",
     "static/media/ci3.png": "/react-clone/static/media/ci3.6d0d9990ffb90b1d2cc3.png",
     "static/media/browser.png": "/react-clone/static/media/browser.033b2ddc67807198a09e.png",
     "static/media/Os.png": "/react-clone/static/media/Os.b484c81468ef411706f2.png",
@@ -10,12 +10,12 @@
     "static/media/ci1.png": "/react-clone/static/media/ci1.f5b1f4adb25070df81f9.png",
     "static/media/logo_dark.svg": "/react-clone/static/media/logo_dark.b06630590764f529db9c7353b130a17e.svg",
     "index.html": "/react-clone/index.html",
-    "main.c1a023ca.css.map": "/react-clone/static/css/main.c1a023ca.css.map",
-    "main.da74ea97.js.map": "/react-clone/static/js/main.da74ea97.js.map",
-    "453.0f1874b4.chunk.js.map": "/react-clone/static/js/453.0f1874b4.chunk.js.map"
+    "main.d7a5895c.css.map": "/react-clone/static/css/main.d7a5895c.css.map",
+    "main.a008f4fb.js.map": "/react-clone/static/js/main.a008f4fb.js.map",
+    "453.5f0ed8ef.chunk.js.map": "/react-clone/static/js/453.5f0ed8ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1a023ca.css",
-    "static/js/main.da74ea97.js"
+    "static/css/main.d7a5895c.css",
+    "static/js/main.a008f4fb.js"
   ]
 }
