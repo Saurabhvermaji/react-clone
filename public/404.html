@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <title>Not Found</title>
+    <script>
+      (function () {
+        // === repo name  ===
+        var repoBase = '/react-clone';
+        var indexUrl = repoBase + '/index.html';
+
+        // full original path the user requested (keeps query & hash)
+        var original = location.pathname + location.search + location.hash;
+
+        // if root, just go to repo root
+        if (original === repoBase || original === repoBase + '/' || original === '/') {
+          location.replace(repoBase + '/');
+          return;
+        }
+
+        // Fetch the real index.html and write it into document,
+        // then restore the original URL so React Router sees it.
+        fetch(indexUrl)
+          .then(function (res) { return res.text(); })
+          .then(function (html) {
+            document.open();
+            document.write(html);
+            document.close();
+            // restore address bar to original path
+            history.replaceState({}, '', original);
+          })
+          .catch(function (err) {
+            console.error('Failed to load index.html from', indexUrl, err);
+            // fallback: redirect to repo root
+            location.replace(repoBase + '/');
+          });
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
