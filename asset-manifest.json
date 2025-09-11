@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-clone/static/css/main.84b7c428.css",
+    "main.css": "/react-clone/static/css/main.2ca6f7e9.css",
     "main.js": "/react-clone/static/js/main.ccf49015.js",
     "static/js/453.5f0ed8ef.chunk.js": "/react-clone/static/js/453.5f0ed8ef.chunk.js",
     "static/media/ci3.png": "/react-clone/static/media/ci3.6d0d9990ffb90b1d2cc3.png",
@@ -10,12 +10,12 @@
     "static/media/ci1.png": "/react-clone/static/media/ci1.f5b1f4adb25070df81f9.png",
     "static/media/logo_dark.svg": "/react-clone/static/media/logo_dark.b06630590764f529db9c7353b130a17e.svg",
     "index.html": "/react-clone/index.html",
-    "main.84b7c428.css.map": "/react-clone/static/css/main.84b7c428.css.map",
+    "main.2ca6f7e9.css.map": "/react-clone/static/css/main.2ca6f7e9.css.map",
     "main.ccf49015.js.map": "/react-clone/static/js/main.ccf49015.js.map",
     "453.5f0ed8ef.chunk.js.map": "/react-clone/static/js/453.5f0ed8ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b7c428.css",
+    "static/css/main.2ca6f7e9.css",
     "static/js/main.ccf49015.js"
   ]
 }
