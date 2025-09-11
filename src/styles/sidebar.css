@@ -1,6 +1,7 @@
 .sidebar {
   transform: translateX(-100%);
   width: 100%;
+  height: calc(100vh - 60px);
   position: absolute;
   top: 60px;
   overflow: hidden;
@@ -8,7 +9,7 @@
   background-color: var(--navbar-bg);
   color: var(--text-color);
   z-index: 99;
-  background-color: red !important;
+  overflow-y: scroll !important;
 }
 
 .sidebar.open {

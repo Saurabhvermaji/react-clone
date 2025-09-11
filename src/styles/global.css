@@ -26,7 +26,7 @@ code {
 
 [data-theme="dark"] {
   --bg-color: #151d2b;
-  --text-color: #ffffff;
+  --text-color: white;
   --navbar-bg: #151d2b;
   --input-bg: #353b45af;
   --border-color: rgba(255, 255, 255, 0.507);
