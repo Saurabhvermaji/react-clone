@@ -42,6 +42,7 @@
 #hero_btn2 {
     background-color: transparent;
     border: 1px solid var(--border-color);
+    color: var(--text-color);
 }
 
 /* core-concept */
@@ -81,6 +82,7 @@
 
 .core-btn {
     background-color: transparent;
+    color: var(--text-color);
     padding: 10px 40px;
     border-radius: 20px;
     border: 1px solid var(--border-color);
@@ -113,6 +115,7 @@
     padding: 10px 40px;
     border-radius: 50px;
     border: 1px solid var(--border-color);
+    color: var(--text-color);
 }
 
 .news-list {
@@ -170,7 +173,7 @@
     padding: 15px 40px;
     border-radius: 50px;
     background: #61DAFB;
-    color: black;
+    color: var(--text-color);
 }
 
 /* Tablet */
